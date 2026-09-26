@@ -7,6 +7,6 @@ plt.grid(False)
 plt.show()
 plt.show
 plt.show
-plt.show
+plt.showaA
 plt.xlabel('Valor')
 
